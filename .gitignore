@@ -1,0 +1,8 @@
+# Binaires compilés
+a.out
+matrix
+*.o
+
+# Éditeur
+.vscode/
+.DS_Store
